@@ -1,0 +1,15 @@
+C:\Users\Borzhik\source\repos\Task1.1\Task1.1\obj\Debug\net10.0\Task1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borzhik\source\repos\Task1.1\Task1.1\obj\Debug\net10.0\Task1.1.AssemblyInfoInputs.cache
+C:\Users\Borzhik\source\repos\Task1.1\Task1.1\obj\Debug\net10.0\Task1.1.AssemblyInfo.cs
+C:\Users\Borzhik\source\repos\Task1.1\Task1.1\obj\Debug\net10.0\Task1.1.csproj.CoreCompileInputs.cache
+C:\Users\Borzhik\source\repos\Task1.1\Task1.1\bin\Debug\net10.0\Task1.1.exe
+C:\Users\Borzhik\source\repos\Task1.1\Task1.1\bin\Debug\net10.0\Task1.1.deps.json
+C:\Users\Borzhik\source\repos\Task1.1\Task1.1\bin\Debug\net10.0\Task1.1.runtimeconfig.json
+C:\Users\Borzhik\source\repos\Task1.1\Task1.1\bin\Debug\net10.0\Task1.1.dll
+C:\Users\Borzhik\source\repos\Task1.1\Task1.1\bin\Debug\net10.0\Task1.1.pdb
+C:\Users\Borzhik\source\repos\Task1.1\Task1.1\obj\Debug\net10.0\Task1.1.dll
+C:\Users\Borzhik\source\repos\Task1.1\Task1.1\obj\Debug\net10.0\refint\Task1.1.dll
+C:\Users\Borzhik\source\repos\Task1.1\Task1.1\obj\Debug\net10.0\Task1.1.pdb
+C:\Users\Borzhik\source\repos\Task1.1\Task1.1\obj\Debug\net10.0\Task1.1.genruntimeconfig.cache
+C:\Users\Borzhik\source\repos\Task1.1\Task1.1\obj\Debug\net10.0\ref\Task1.1.dll
+C:\Users\Borzhik\source\repos\Task1.1\Task1.1\obj\Debug\net10.0\Task1.1.csproj.Up2Date
