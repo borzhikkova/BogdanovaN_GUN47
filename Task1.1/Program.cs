@@ -16,7 +16,7 @@
         char op;
         while (true)
         {
-            Console.WriteLine("PUT (&, | или ^): ");
+            Console.WriteLine("Enter operator (&, | or ^): ");
             string s = Console.ReadLine();
 
             if (!string.IsNullOrEmpty(s) && s.Length == 1 && (s[0] == '&' || s[0] == '|' || s[0] == '^'))
